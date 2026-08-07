@@ -2,17 +2,17 @@
 
 Table of Contents
 
-[**What is the system, and what does it do?	2**](#what-is-the-system,-and-what-does-it-do?)
+[**What is the system, and what does it do?**](#what-is-the-system,-and-what-does-it-do?)
 
-[**Why am I making the system and what does it solve?	2**](#why-am-i-making-the-system-and-what-does-it-solve?)
+[**Why am I making the system and what does it solve?**](#why-am-i-making-the-system-and-what-does-it-solve?)
 
-[**Hardware Parts needed for the system(roughly)	2**](#hardware-parts-needed-for-the-system\(roughly\))
+[**Hardware Parts needed for the system(roughly)**](#hardware-parts-needed-for-the-system\(roughly\))
 
-[**Simulating battery life	3**](#simulating-battery-life)
+[**Simulating battery life**](#simulating-battery-life)
 
-[**Why a Potentiometer?	3**](#why-a-potentiometer?)
+[**Why a Potentiometer?**](#why-a-potentiometer?)
 
-[**General Architecture	3**](#general-architecture)
+[**General Architecture**](#general-architecture)
 
 # 
 
